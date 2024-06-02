@@ -38,7 +38,7 @@ print(extract_content(url_of_latest, clas, "article", False))
 
 #ChatGPT
 
-openai.api_key = "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"
+openai.api_key = ""
 prompt = "hello there"
 model = "text-davinci-003"
 temperature =0.2
