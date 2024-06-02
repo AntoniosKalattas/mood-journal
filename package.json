@@ -1,0 +1,26 @@
+{
+  "name": "mood-journal",
+  "version": "0.0.1",
+  "description": "Logging your mood everyday",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AntoniosKalattas/mood-journal.git"
+  },
+  "keywords": [
+    "mood-journal"
+  ],
+  "author": "Antonios Kalattas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AntoniosKalattas/mood-journal/issues"
+  },
+  "homepage": "https://github.com/AntoniosKalattas/mood-journal#readme",
+  "dependencies": {
+    "electron": "^30.0.9",
+    "openai": "^4.47.2"
+  }
+}
